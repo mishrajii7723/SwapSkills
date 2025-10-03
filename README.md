@@ -92,3 +92,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhilshimpy/)  
 - 🐙 [GitHub](https://github.com/NikhilShimpy)  
 - 📸 [Instagram](https://www.instagram.com/nikhilshimpyy/?hl=en)
+- 🔗 [LinkTree](https://linktr.ee/nikhilshimpyy)
+- 🖥️ [Portfolio](https://nikhilshimpyyportfolio.vercel.app/)
