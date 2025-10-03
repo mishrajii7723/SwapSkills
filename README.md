@@ -71,3 +71,24 @@ pip install -r requirements.txt
 
 # 3. Run the Flask app
 python run.py
+```
+
+--- 
+
+## 📽️ Live Demo / Video
+
+- 🌐 [GitHub Repository](https://github.com/NikhilShimpy/SwapSkills.git)  
+- 📹 [Demo Video]() 
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙌 Author
+
+**Nikhil Shimpy**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilshimpy/)  
+- 🐙 [GitHub](https://github.com/NikhilShimpy)  
+- 📸 [Instagram](https://www.instagram.com/nikhilshimpyy/?hl=en)
