@@ -10,7 +10,7 @@ Skill Swap Platform is a community-driven web application where users can **list
 
 ## 👥 Contributors
 
-- **Nikhil Shimpy** – [@NikhilShimpy](https://github.com/NikhilShimpy)  
+- **Ravi Mishra** – [@mishrajii7723](https://github.com/mishrajii7723/)  
 - **Harsh Vardhan** – [@Harsh147v](https://github.com/Harsh147v)
 - **Palak Paithari** – [@palakpaithari](https://github.com/palakpaithari)
 - **Chetna Sikarwar** – [@chetnasingh31](https://github.com/chetnasingh31)
